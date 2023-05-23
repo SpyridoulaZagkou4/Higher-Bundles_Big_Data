@@ -1,5 +1,7 @@
 # Higher-Bundles_Big_Data
 
+# Description
+The scope of the project is the end-to-end automation pipeline to model the propensity of customers who are more likely to purchase a higher-value bundle the next month in terms of an adhoc campaign to increase revenues. So, I analyze Prepay customers' usage, billing, status, demographics data and by training a classification Machine Learning model I can a extract a shortlist to target customer base with high propensity to do this migration.
 
 # RESULTS
 
