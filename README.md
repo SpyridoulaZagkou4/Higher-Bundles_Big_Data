@@ -7,6 +7,11 @@ The scope of the project is the end-to-end automation pipeline to model the prop
 1. pandas
 2. numpy
 3. imblearn
+4. math
+5. sklearn
+6. lightgbm 
+7. datetime 
+8. matplotlib
 
 
 # RESULTS
