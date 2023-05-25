@@ -27,7 +27,7 @@ For this case we give emphasis to recall metric because we want to detect as mor
 As we can see the model can detect efficiently the 78% of customers they did the migration 
 ###  Shap - Feature Importance 
 Here we can se the most important variables that help the model to decide:
-These features are like if is student or not, monthly bundle revenue, recharges number, data usage, etc..
+These features are like if is student or not, data usage,  recharges value, monthly bundle revenue, etc..
 
 ![shap1](https://github.com/SpyridoulaZagkou4/Higher-Bundles_Big_Data/assets/81852029/c47bd9d5-9f0a-4dd1-a6de-f4ffb0fff3cd)
 ![shap2](https://github.com/SpyridoulaZagkou4/Higher-Bundles_Big_Data/assets/81852029/fd0f5266-6df1-48ed-8060-6fe60dd5d0d0)
