@@ -24,7 +24,7 @@ The scope of the project is the end-to-end automation pipeline to model the prop
 ![classification_report](https://github.com/SpyridoulaZagkou4/Higher-Bundles_Big_Data/assets/81852029/ab54969a-fea4-4795-9d32-2aaf3a5fa445)
 
 For this case we give emphasis to recall metric because we want to detect as more customers as we can that are more likely to buy a higher-value bundle.
-As we can see the model can detect efficiently the 78% of customers they do the migration 
+As we can see the model can detect efficiently the 78% of customers they did the migration 
 ###  Shap - Feature Importance 
 Here we can se the most important variables that help the model to decide:
 These features are like if is student or not, monthly bundle revenue, recharges number, data usage, etc..
